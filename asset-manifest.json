@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/cyrusbosworth.github.io/ts-cart/static/js/main.597c91b4.chunk.js",
-    "main.js.map": "/cyrusbosworth.github.io/ts-cart/static/js/main.597c91b4.chunk.js.map",
-    "runtime-main.js": "/cyrusbosworth.github.io/ts-cart/static/js/runtime-main.b5fe8734.js",
-    "runtime-main.js.map": "/cyrusbosworth.github.io/ts-cart/static/js/runtime-main.b5fe8734.js.map",
-    "static/js/2.6b768f0c.chunk.js": "/cyrusbosworth.github.io/ts-cart/static/js/2.6b768f0c.chunk.js",
-    "static/js/2.6b768f0c.chunk.js.map": "/cyrusbosworth.github.io/ts-cart/static/js/2.6b768f0c.chunk.js.map",
-    "index.html": "/cyrusbosworth.github.io/ts-cart/index.html",
-    "static/js/2.6b768f0c.chunk.js.LICENSE.txt": "/cyrusbosworth.github.io/ts-cart/static/js/2.6b768f0c.chunk.js.LICENSE.txt"
+    "main.js": "/ts-cart/static/js/main.597c91b4.chunk.js",
+    "main.js.map": "/ts-cart/static/js/main.597c91b4.chunk.js.map",
+    "runtime-main.js": "/ts-cart/static/js/runtime-main.20a1e5c5.js",
+    "runtime-main.js.map": "/ts-cart/static/js/runtime-main.20a1e5c5.js.map",
+    "static/js/2.1d9ce3f2.chunk.js": "/ts-cart/static/js/2.1d9ce3f2.chunk.js",
+    "static/js/2.1d9ce3f2.chunk.js.map": "/ts-cart/static/js/2.1d9ce3f2.chunk.js.map",
+    "index.html": "/ts-cart/index.html",
+    "static/js/2.1d9ce3f2.chunk.js.LICENSE.txt": "/ts-cart/static/js/2.1d9ce3f2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b5fe8734.js",
-    "static/js/2.6b768f0c.chunk.js",
+    "static/js/runtime-main.20a1e5c5.js",
+    "static/js/2.1d9ce3f2.chunk.js",
     "static/js/main.597c91b4.chunk.js"
   ]
 }
